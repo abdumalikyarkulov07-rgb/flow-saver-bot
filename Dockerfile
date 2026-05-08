@@ -16,4 +16,4 @@ Hammasini to'g'ri qilgan bo'lsangiz, asosiy sahifada mana bu **3 ta fayl** turis
 2. `requirements.txt`
 3. `Dockerfile`
 
-Shularni qilib bo'lib, menga ayting, keyin **Koyeb**-da botni "yoqamiz".
+
